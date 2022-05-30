@@ -30,15 +30,6 @@
     <img onclick="https://github.com/rodolphoguerreiro/" align="center"   src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
 </div>
 
-
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolphoguerreiro&theme=onedark" alt="rodolphoguerreiro" height="158"/>
-</div>
-
-<div>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodolphoguerreiro&theme=onedark" width="760" alt="rodolphoguerreiro" /></a> </p>
-</div>
-
 <br/>
 <br/>
 
